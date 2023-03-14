@@ -3,8 +3,8 @@
 After JSD04 member had class  about Future Orientation.
 
 * Look at Future Orientation Handour -- [File](https://docs.google.com/document/d/1-eDFXYpPQUPVb-L-pBtQoGH3tg_by9N-/edit) <br>
-* Think anbout your future plan and fill into the form <br>
-* Export BSM-FO - Goal Planning Handout as PDF file. <br>
+* Think about your future plan and writedown/type to the form <br>
+* Export: BSM-FO - Goal Planning Handout as PDF file. <br>
 * Naming format : 00-Name-GoalPlaning.pdf <br>
 
 * Upload your PDF file to this repository. 
